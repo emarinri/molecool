@@ -10,7 +10,7 @@ other formats.
 
 This was developed as part of a best practices workshop.
 
-Have a very nice day!!!
+Have a very very nice day!!!
 
 ### Copyright
 

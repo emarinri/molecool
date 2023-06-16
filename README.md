@@ -10,8 +10,6 @@ other formats.
 
 This was developed as part of a best practices workshop.
 
-Have a very nice day!!!!!!!
-
 ### Copyright
 
 Copyright (c) 2023, Eliseo Marin-Rimoldi
